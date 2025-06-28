@@ -3,43 +3,51 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Ananya | Portfolio</title>
+  <title>Daily Planner</title>
   <link rel="stylesheet" href="style.css" />
   <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;600&display=swap" rel="stylesheet">
 </head>
 <body>
   <header>
-    <h1>Ananya</h1>
-    <p class="tagline">Independent, curious, and always learning</p>
+    <h1>Daily Planner</h1>
+    <p class="quote">Quote of the Day:                                                        </p>
   </header>
 
-  <section class="about">
-    <img src="images/profile.png" alt="Profile Photo" class="profile-pic" />
-    <div class="about-text">
-      <h2>About Me</h2>
-      <p>Hey! I'm Ananya, an aspiring UI/UX designer and frontend developer. I love clean layouts, pastel aesthetics, and turning creative ideas into real, functional designs. Currently learning React, Tailwind, and backend basics to level up into a full-stack creator 💻🎨</p>
-    </div>
-  </section>
-
-  <section class="skills">
-    <h2>Skills & Tools</h2>
-    <ul>
-      <li>💻 HTML • CSS • JavaScript</li>
-      <li>🎨 Figma • Canva • Photoshop • CorelDRAW</li>
-      <li>🚀 React • Tailwind CSS • MongoDB • Node.js</li>
-    </ul>
-  </section>
-
-  <section class="projects">
-    <h2>Projects</h2>
-    <ul>
-      <li>🔋 Lithium-Ion Inverter – Hardware + Tech project</li>
-      <li>🌐 Portfolio Website – This very page!</li>
-    </ul>
-  </section>
+  <main>
+    <section class="planner-grid">
+      <div class="planner-card">
+        <h2>🌞 Morning</h2>
+        <div class="lines"></div>
+      </div>
+      <div class="planner-card">
+        <h2>🌤 Afternoon</h2>
+        <div class="lines"></div>
+      </div>
+      <div class="planner-card">
+        <h2>🌙 Night</h2>
+        <div class="lines"></div>
+      </div>
+      <div class="planner-card">
+        <h2>🍽 Meals</h2>
+        <ul class="meals">
+        <li><strong>Breakfast:</strong><br>                          </li><br>
+        <li><strong>Lunch:</strong><br>                              </li><br>
+        <li><strong>Dinner:</strong><br>                             </li>
+       </ul>
+      </div>
+      <div class="planner-card">
+        <h2>📝 To-Do</h2>
+        <div class="lines"></div>
+      </div>
+      <div class="planner-card notes">
+        <h2>💬 Notes / Gratitude</h2>
+        <div class="lines"></div>
+      </div>
+    </section>
+  </main>
 
   <footer>
-    <p>Made by Ananya | 2025</p>
+    <p>Created by Ananya | 2025</p>
   </footer>
 </body>
 </html>
