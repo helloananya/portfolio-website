@@ -33,5 +33,43 @@ _Replace with your actual GitHub Pages link._
 
 ---
 
-## 📂 Folder Structure
+
+---
+
+## 💡 Features
+
+- Soft, aesthetic design inspired by modern minimal UI principles
+- Fully responsive layout
+- Clean, semantic HTML and CSS
+- Circular profile section with a personalized intro
+- Simple project showcase and skills list
+
+---
+
+## 📌 Purpose of This Project
+
+This project serves as my:
+- Digital resume for internships and opportunities
+- Hands-on practice with HTML/CSS fundamentals
+- Foundation for expanding into React, animations, and more
+
+---
+
+## 🤝 Connect With Me
+
+Feel free to connect, collaborate or just say hi:
+
+- 📧 Email: `youremail@example.com`
+- 💼 [LinkedIn](#)
+- 📸 [Instagram](#)
+
+---
+
+## 📍 Status
+
+🚧 This portfolio is a work in progress.  
+I'll continue updating it as I grow as a developer & designer.
+
+---
+
 
