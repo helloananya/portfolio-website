@@ -29,10 +29,6 @@ Currently learning: `React.js`, `Tailwind CSS`
 ## 🌐 Live Demo
 
 📎 **[View Portfolio Live](https://yourusername.github.io/portfolio-website)**  
-_Replace with your actual GitHub Pages link._
-
----
-
 
 ---
 
@@ -59,9 +55,8 @@ This project serves as my:
 
 Feel free to connect, collaborate or just say hi:
 
-- 📧 Email: `youremail@example.com`
-- 💼 [LinkedIn](#)
-- 📸 [Instagram](#)
+- 📧 Email: `ananyaaa1506@gmail.com`
+- 💼 [Instagram](_.anxnyaaaaaa._)
 
 ---
 
